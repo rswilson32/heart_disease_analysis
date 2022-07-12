@@ -1,6 +1,6 @@
 # heart disease analysis
 
-<img src='medical-prescription.png' height = "40" />
+<img src='medical-prescription.png' height = "400" />
 
 This dataset is from the <a href = "https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a>, courtesy of: 
 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
