@@ -1,5 +1,7 @@
 # heart disease analysis
 
+<img src='medical-prescription.png' height = "40" />
+
 This dataset is from the <a href = "https://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a>, courtesy of: 
 1. Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
 2. University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
